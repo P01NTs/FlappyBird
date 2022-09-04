@@ -1,6 +1,6 @@
 @font-face {
     font-family: scoring;
-    src: url(/assets/Robotronica.ttf);
+    src: src(/assets/Robotronica.ttf);
 }
 
 *,
